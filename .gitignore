@@ -1,0 +1,4 @@
+# Ignore node modules and build outputs
+node_modules/
+.next/
+dist/
